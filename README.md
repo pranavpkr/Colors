@@ -9,4 +9,4 @@ Demo:
 https://hexcolorgenerator.herokuapp.com
 
 https://github.com/pranavpkr/Colors/blob/master/color/public/ScreenShot.PNG
-![Alt text](Colors/tree/master/color/public/ScreenShot.PNG "Scrennshot")
+![Cat](https://raw.githubusercontent.com/pranavpkr/Colors/blob/master/color/public/ScreenShot.PNG)
