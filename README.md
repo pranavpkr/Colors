@@ -1,5 +1,5 @@
 # Colors
-React App deployed on cloud
+Hex color generator app in React deployed on cloud.
 
 Build Instructions
 1. npm install
@@ -7,6 +7,5 @@ Build Instructions
 
 Demo:
 https://hexcolorgenerator.herokuapp.com
-
 
 ![Sample](https://github.com/pranavpkr/Colors/blob/master/color/public/ScreenShot.PNG)
