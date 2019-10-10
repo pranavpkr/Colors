@@ -7,3 +7,6 @@ Build Instructions
 
 Demo:
 https://hexcolorgenerator.herokuapp.com
+
+https://github.com/pranavpkr/Colors/blob/master/color/public/ScreenShot.PNG
+![Alt text](Colors/color/public/ScreenShot.PNG "Scrennshot")
